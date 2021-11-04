@@ -1,0 +1,2 @@
+Best score: -0.057754324128230415
+Best_params: {'batch_size': 75, 'dropout_rate': 0.15, 'epochs': 150}
